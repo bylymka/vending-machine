@@ -10,7 +10,6 @@ import com.imperva.vendingmachine.dto.UserDto;
 import com.imperva.vendingmachine.model.Role;
 import com.imperva.vendingmachine.model.Status;
 import com.imperva.vendingmachine.model.User;
-import com.imperva.vendingmachine.model.UserRoles;
 import com.imperva.vendingmachine.repository.RoleRepository;
 import com.imperva.vendingmachine.repository.UserRepository;
 import com.imperva.vendingmachine.service.UserService;
